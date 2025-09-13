@@ -186,7 +186,7 @@ Understanding theory is important, but you will also be expected to create progr
 
 Courses | Duration | Effort | Prerequisites | Discussion | Status
 :-- | :--: | :--: | :--: | :--: | :--:
-[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | - | [chat](https://discord.gg/5FvKycS)
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | - | [chat](https://discord.gg/5FvKycS) | ▶️ 9/5/25
 
 ### Core systems
 
@@ -249,7 +249,7 @@ Courses | Duration | Effort | Prerequisites | Discussion | Status
 :-- | :--: | :--: | :--: | :--: | :--:
 [Cybersecurity Fundamentals](https://www.edx.org/learn/cybersecurity/rochester-institute-of-technology-cybersecurity-fundamentals) | 8 weeks | 10-12 hours/week | - | [chat](https://discord.gg/XdY3AwTFK4) | ✅ 9/9/25
 [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | 4 hours/week | - | [chat](https://discord.gg/5gMdeSK) | ▶️ 9/10/25
-[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | 4 hours/week | - | [chat](https://discord.gg/V78MjUS) | 9/11/25
+[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | 4 hours/week | - | [chat](https://discord.gg/V78MjUS) | ▶️ 9/11/25
 
 Choose **one** of the following:
 
